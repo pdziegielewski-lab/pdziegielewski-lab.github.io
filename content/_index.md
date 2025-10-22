@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        dr Przemysław Dzięgielewski
       image:
         filename: welcome.jpg
       text: |
