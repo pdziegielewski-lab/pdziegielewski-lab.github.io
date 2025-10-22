@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: dr Przemysław Dzięgielewski
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Przemysław
+last_name: Dzięgielewski
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Warsaw University of Technology, Faculty of Physics
+    url: 'fizyka.pw.edu.pl'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focus on solid state physics.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Interests:
+  - metallic glassess
+  - DFT/MD simulations
+  - high pressure atomic and electronic structures
+  - application of X-ray techniques (XAFS, XRD) using synchrotrons and XFELs
+  - metallic glasses as a hydrogen storages
+  - new ionic conductors 
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Solid State Physics
+      institution: Warsaw University of Technology
+      year: 2021
+    - course: MSc in Technical Physics, speciality ecological energy sources
+      institution: Warsaw University of Technology
+      year: 2015
+    - course: Eng. in Technical Physics, speciality advanced materials
+      institution: Warsaw University of Technology
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
