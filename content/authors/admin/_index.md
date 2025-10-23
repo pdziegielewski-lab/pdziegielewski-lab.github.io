@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: Warsaw University of Technology, Faculty of Physics
-    url: 'fizyka.pw.edu.pl'
+    url: 'https://www.fizyka.pw.edu.pl'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focus on solid state physics.
@@ -75,6 +75,9 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello. I am a physicist working at Warsaw University of Technology (Politechnika Warszawska), at the Faculty of Physics. My scientific interests are split between research on metallic glasses under high pressure conditions (the subject of my doctoral dissertation) and investigating these materials as potential hydrogen storage systems. I am also involved in two projects. The first concerns the mechanisms of melting and crystallization of pure metals. Due to the very fast processes involved, we use, among other methods, Free-Electron Lasers and Synchrotrons (XAFS, XRD methods). We successfully complement the experimental data with results from molecular dynamics simulations. In the second project, I perform DFT/QMD calculations for new materials that are potential solid-state electrolytes based on sodium.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also carry out teaching activities, ranging from lecturing on the fundamental physics, to leading student exercises and labs, and finally to a specialized course on the EXAFS method. So far, I have supervised four engineers and one Master of Science. I am also the auxiliary supervisor for two PhD students. I am also involved in popularization and science promotion work, and I help students from the Physicists' Student Scientific Society to build and launch a radiotelescope.
+
+Personally, I spend a lot of time practicing the piano and the flute and developing my musical skills. I am particularly interested in classical music from all periods. I am a regular attendee of the philharmonic and the opera. I also enjoy cooking and brewing beer. I have a dozen successful beers. I also appreciate good literature, especially fantasy, crime novels, and young adult fiction, because I still feel young.
+
