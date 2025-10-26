@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: P. Dzięgielewski # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://pdziegielewski.com.pl/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -14,6 +14,16 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 1
+  pl:
+    languageName: Polski
+    contentDir: content/pl
+    weight: 2
 
 ############################
 ## ADVANCED

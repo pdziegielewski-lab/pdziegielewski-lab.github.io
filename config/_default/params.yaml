@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -34,9 +34,9 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -68,11 +68,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: ture
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/pdziegielewski-lab/lab_codes'
     content_dir: content
     branch: main
   avatar:
@@ -91,7 +91,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: pdziegielewski
     algolia:
       app_id: ''
       api_key: ''

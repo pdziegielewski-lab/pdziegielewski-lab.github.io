@@ -13,8 +13,9 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        I invite you to view my scientific profile and make use of the available teaching materials.
+
+        Zapraszam do zapoznania się z moją działalnością naukową i korzystania z udostępnionych materiałów.
+
   
   - block: collection
     content:

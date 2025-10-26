@@ -20,7 +20,7 @@ sections:
     content:
       title: Latest News
       subtitle:
-      text: ""
+      text:
       count: 5
       filters:
         author: ''
@@ -63,7 +63,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        #publication_type: 'article'
     design:
       view: citation
       columns: '1'
