@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-            If you have any questions or see room for collaboration, please feel free to contact me.
+            If you have any questions or see collaboration opportunity, please feel free to contact me.
       email: przemyslaw.dziegielewski@pw.edu.pl
       phone: +48 22 2348231
       address:
